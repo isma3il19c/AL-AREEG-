@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://isma3il19c.github.io/AL-AREEG-/sitemap.xml
