@@ -2,6 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://isma3il19c.github.io/AL-AREEG-/</loc>
+    <lastmod>2025-08-22</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
@@ -13,8 +14,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://isma3il19c.github.io/AL-AREEG-/#testimonials</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://isma3il19c.github.io/AL-AREEG-/#story</loc>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://isma3il19c.github.io/AL-AREEG-/#contact</loc>
